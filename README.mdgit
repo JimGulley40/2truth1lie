@@ -1,0 +1,2 @@
+"# 2truth1lie"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/JimGulley40/2truth1lie.gitgit push -u origin main
+"# 2truth1lie"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/JimGulley40/2truth1lie.gitgit push -u origin main
